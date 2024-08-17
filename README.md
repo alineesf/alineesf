@@ -2,7 +2,9 @@
 
 
 # 💫 About Me:
-- 🎯Since the beginning of my academic journey, I have demonstrated a particular interest and passion for the Frontend area. In search of knowledge and updates on the latest trends and technologies in this constantly evolving field. Determination and commitment to my projects and studies, I value the importance of user experience and I am always looking for ways to improve and enhance my skills. I hope to apply my knowledge and skills acquired during my training to create innovative and impactful solutions in the world of development. Determination and curiosity are the pillars that drive me on my professional and academic journey.<br>- 🎓 University student on the Systems Analysis and Development 𝚊𝚝 𝚝𝚑𝚎 [Cesusc 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢](https://cesusc.edu.br/) , 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝙳𝚎𝚌𝚎𝚖𝚋𝚎𝚛 𝟸0𝟸𝟺<br>- 🖥 Javascript, SQL Server, MONGODB, Python, HTML & CSS, Basics of interface design and user experience (UI/UX).<br> ##
+- 🎯Since the beginning of my academic journey, I have demonstrated a particular interest and passion for the Frontend area. In search of knowledge and updates on the latest trends and technologies in this constantly evolving field. Determination and commitment to my projects and studies, I value the importance of user experience and I am always looking for ways to improve and enhance my skills. I hope to apply my knowledge and skills acquired during my training to create innovative and impactful solutions in the world of development. Determination and curiosity are the pillars that drive me on my professional and academic journey.<br>
+- 🎓 University student on the Systems Analysis and Development 𝚊𝚝 𝚝𝚑𝚎 [Cesusc 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢](https://cesusc.edu.br/) , 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝙳𝚎𝚌𝚎𝚖𝚋𝚎𝚛 𝟸0𝟸𝟺<br>
+- 🖥 Javascript, SQL Server, MONGODB, Python, HTML & CSS, Basics of interface design and user experience (UI/UX).<br> 
 
 
 ## 🌐 Socials:
@@ -13,7 +15,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alineesf&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alineesf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
